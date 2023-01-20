@@ -1,7 +1,7 @@
 package kube
 
 chart: wekan: {
-	version:    "v1.0.0"
+	version:    "v1.1.0"
 	appVersion: "v6.69"
 }
 
